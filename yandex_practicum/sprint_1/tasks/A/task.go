@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	var a, b, c, x int
+
 
 	reader := bufio.NewReader(os.Stdin)
 	scanner := bufio.NewScanner(reader)
